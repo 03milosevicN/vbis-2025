@@ -1,0 +1,19 @@
+{
+    "name": "nikol/vbis",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "03milosevicN",
+            "email": "nikolamilosevic220803@gmail.com"
+        }
+    ],
+    "require": {
+        "ext-json": "*",
+        "ext-mysqli": "*",
+        "fakerphp/faker": "^1.24"
+    }
+}
